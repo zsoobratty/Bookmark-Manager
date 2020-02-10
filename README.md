@@ -1,4 +1,4 @@
-# Bookmark-Manager
+# Bookmark Manager
 
 #### Requirements 
 * Show a list of bookmarks
